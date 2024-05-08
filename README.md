@@ -1,2 +1,3 @@
 # rag-llm-demo
-Retrieval-augmented generation (RAG) demo
+
+Learn how to implement Retrieval-Augmented Generation (RAG) architecture into a Large Language Model (LLM).
